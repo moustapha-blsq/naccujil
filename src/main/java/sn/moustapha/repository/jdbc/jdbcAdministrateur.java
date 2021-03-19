@@ -51,6 +51,10 @@ public class jdbcAdministrateur implements AdminReporsitory {
             stmt.setInt(4, medecin);
             stmt.setInt(5, patient);
             if(stmt.executeUpdate() > 0)
+
+
+
+
                 System.out.println("Enregistrement RV OK");
             else System.out.println("Echec de l'enregistrement du RV");
         }catch (Exception e){
