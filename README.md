@@ -19,3 +19,4 @@ o	Admin : Assure le secrétariat de la plateforme avec la gestion des comptes, l
 
 Diagramme de classes
 
+![image](https://user-images.githubusercontent.com/33578614/111835468-ec1e4c00-88ec-11eb-89b4-e1c42f2477c2.png)
